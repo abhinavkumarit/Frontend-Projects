@@ -1,0 +1,195 @@
+
+.first-btn{
+    display: flex;
+    gap: 12px;
+    /* justify-content: ; */
+}
+
+
+.btn{
+    
+    width: 140px;
+    height: 60px;
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.submit-btn{
+    background-color: #9a2121;
+    width: 105px;
+    height: 34px;
+    cursor: pointer;
+    border-radius: 2px;
+    border: none;
+    color: white;
+    transition: 0.7s ease-in-out;
+   
+}
+.submit-btn:hover{
+    opacity: 0.7;
+}
+
+.join-btn{
+    
+    width: 80px;
+    height: 34px;
+    background-color: white;
+    border: 2px solid rgb(0, 149, 255);
+    border-radius: 2px;
+    color: rgb(0, 85, 255);
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+    
+}
+.join-btn:hover{
+    opacity: 0.6;
+}
+.Tweet-btn{
+    width: 105px;
+    height: 34px;
+    border-radius: 17px;
+    border: none;
+    background-color: rgb(0, 183, 255);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+    
+}
+
+.Tweet-btn:hover{
+   opacity: 0.7;
+}
+.Cart-btn{
+    width: 115px;
+    height: 34px;
+    border-radius: 17px;
+    background-color: yellow;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+    
+}
+.Cart-btn:hover{
+    opacity: 0.6;
+}
+
+.second-btn{
+    margin-top: 24px;
+    display: flex;
+    gap: 12px;
+}
+.Sign-up-btn{
+    /* margin: 12px; */
+
+    width: 105px;
+    height: 34px;
+    border-radius: 3px;
+    background-color: rgb(31, 211, 31);
+    font-weight: 400;
+    color: white;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+}
+.Sign-up-btn:hover{
+    opacity: 0.6;
+}
+
+.Request-now-btn{
+    background-color: black;
+    color: white;
+    width: 115px;
+    height: 34px;
+    border: none;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+}
+.Request-now-btn:hover{
+    opacity: 0.6;
+}
+.btn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  width:  260px;
+  height: 60px;
+  border: 1px solid black;
+  /* background-color: black; */
+}
+.Get-Started-btn{
+    width: 105px;
+    height: 34px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    cursor: pointer;
+    background-color: #7353A9;
+    transition: 0.7s ease-in-out;
+}
+.Get-Started-btn:hover{
+    opacity: 0.6;
+}
+.Download-btn{
+    width: 105px;
+    height: 34px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #7353A9;
+    background-color: white;
+    cursor: pointer;
+}
+.btn3{
+    width: 380px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    border: 1px solid black;
+    
+}
+.LinkedIn-btn{
+    width: 220px;
+    height: 34px;
+    border-radius: 17px;
+    border: none;
+    background-color: #2C64B6;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    transition: 0.7s ease-in-out;
+}
+.LinkedIn-btn:hover{
+    opacity: 0.7;
+}
+
+.LinkedInSave-btn{
+    width: 80px;
+    height: 34px;
+    font-size:14px ;
+    font-weight: 700px;
+    color: #2C64B6;
+    border-radius: 17px;
+    border: 1px solid #2C64B6;
+    background-color: white;
+    cursor: pointer;
+    
+}
+
