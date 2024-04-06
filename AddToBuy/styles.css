@@ -1,0 +1,43 @@
+.content{
+    width: 55vw;
+    height: 44vh;
+    border: 1px solid black;
+}
+.content>h4{
+    color: rgb(27, 169, 27);
+}
+.add{
+    width: 105px;
+    height: 34px;
+    border-radius: 17px;
+    background-color: yellow;
+    border: none;
+    margin-right: 14px;
+    cursor: pointer;
+    transition: opacity 1s;
+
+}
+.add:hover{
+    opacity: 0.7;
+}
+.add:active{
+    /* opacity: 0.4; */
+    background-color: rgb(221, 221, 25);
+}
+.buy{
+    width: 105px;
+    height: 34px;
+    border-radius: 17px;
+    background-color: rgb(255, 225, 0);
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.4s;
+
+
+}
+.buy:hover{
+    opacity: 0.7;
+}
+.buy:active{
+    background-color: rgb(240, 187, 89);
+}
